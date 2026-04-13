@@ -102,6 +102,6 @@ A **Medallion Architecture (Bronze, Silver, Gold layers)** approach is implement
 
 ### Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepika%20Kandi-blue?logo=linkedin)](https://www.linkedin.com/in/deepika-kandi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepika%20Kandi-blue?logo=linkedin)](https://www.linkedin.com/in/deepika-kandi/)
 
 
